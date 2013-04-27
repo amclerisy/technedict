@@ -1,6 +1,8 @@
 technedict
 ----------
 
+**Current Status: v.0.1 α1 -- For Review, UNSAFE**
+
 A dictionary for any technical field that breaks the bounds of language.
 
 This project comes in two parts. The first is the simple SPEC that can be implemented in any setting you choose. Also included are example implementations using Flask. 
@@ -10,8 +12,6 @@ See Specification.
 See Flask App -- Website
 
 See Flask App -- API
-
-**Current Status: v.0.1 α1 -- For Review, UNSAFE**
 
 ## Base URL Methods
 
